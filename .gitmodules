@@ -1,0 +1,4 @@
+[submodule "docker"]
+	path = docker
+	url = https://github.com/snosratiershad/maxscale-docker.git
+	branch = rocky8mxs2308
